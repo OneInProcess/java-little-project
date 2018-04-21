@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gbk"?>
+<!--根节点名字一定叫classes-->
+<classes>
+<!--根节有且只有一个子节点 class -->
+ <class class_name="c11.h01.Car">
+  <!--class下面可能有N个prop ,name表示属性名 value表示属性值，属性目前只考虑为字符串类型 -->
+  <prop name="color" value="red"/>
+  <prop name="id" value="abc"/>
+</class>
+</classes>
